@@ -1,1 +1,3 @@
-# sentiment_app_spacy_streamlit
+# Sentiment app using Spacy and Streamlit
+
+NLP app for sentiment analysis
